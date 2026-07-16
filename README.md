@@ -160,7 +160,8 @@ These visualizations show the relationship between each selected feature and the
 
 ### Income by Marital Status
 
-![Income by Marital Status](marital_status.png)
+<img width="846" height="656" alt="marital status" src="https://github.com/user-attachments/assets/0c299bd0-862d-45ad-81d3-d328df114d94" />
+
 
 This visualization shows the proportion of people earning `>50K` for each marital status category. The highest proportion is for `Married-civ-spouse`, where about 44.6% of people earn more than 50K. `Married-AF-spouse` also has a relatively high proportion.
 
@@ -172,7 +173,8 @@ This suggests that marital status is strongly related to income. This may be bec
 
 ### Income by Relationship
 
-![Income by Relationship](relationship.png)
+<img width="846" height="611" alt="relationship" src="https://github.com/user-attachments/assets/9b8c85d1-943d-4742-8e09-9f7412c6e2aa" />
+
 
 This visualization shows the proportion of people earning `>50K` for each relationship category. The highest proportions are for `Wife` and `Husband`, where about 46.9% and 44.9% of people earn more than 50K.
 
